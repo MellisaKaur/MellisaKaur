@@ -3,11 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif")
 
 - 🔭 I’m currently working on **Database**
-
 - 🌱 I’m currently learning **Sqlite, R & Python**
-
 - 📫 How to reach me **linghuikaur@gmail.com**
-
 - ⚡ Fun fact **I am an animal lover.**
 
 <h3 align="left">Connect with me:</h3>
