@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Database**
 - 🌱 I’m currently learning **Sqlite, R & Python**
 - 📫 How to reach me **linghuikaur@gmail.com**
-- ⚡ Fun fact **I am an animal lover.**
+- ⚡ **I am an animal lover.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
